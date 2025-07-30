@@ -1,2 +1,2 @@
-for _ in range(2):
-    print("Hola Mundo con ParqueSoft")
+for i in range(10):
+    print(f"Hola Mundo con ParqueSoft {i}")
