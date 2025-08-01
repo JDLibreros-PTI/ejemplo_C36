@@ -1,2 +1,4 @@
-for _ in range(2):
-    print("Hola Mundo con ParqueSoft")
+iteraciones = int(input("Iteraciones: "))
+
+for i in range(iteraciones):
+    print(f"Hola Mundo con ParqueSoft {i}")
